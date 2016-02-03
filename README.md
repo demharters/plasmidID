@@ -1,6 +1,4 @@
-# plasmidID
-Example showing how to identify the origin of different plasmids with assemblies of Nanopore reads.
-
+### Mutation and backbone identification of plasmids using Nanopore assemblies.
 
 Once the students have sequenced their samples (or using the datasets provided with this report) they could try to identify the origin of their plasmid samples by using BLAST, identifying antibiotic resistance genes (http://ardb.cbcb.umd.edu/blast/) and read alignment against the P. Fluorescens gacS gene (e.g. using the alignment workflow described in the [assembly tutorial](https://github.com/demharters/assemblyTutorial)).
 
